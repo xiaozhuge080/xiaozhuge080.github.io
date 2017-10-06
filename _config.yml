@@ -3,16 +3,16 @@ title: ZBC Blog
 SEOTitle: 张保成的博客 | ZBC Blog
 header-img: img/post-bg-desk.jpg
 email: zhang_baocheng@163.com
-description: "Every failure is leading towards success."
+description: "To be continued..."
 keyword: "Z, B, C"
 url: "http://xiaozhuge080.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xiaozhuge080/xiaozhuge080.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: false                           # whether or not using Sidebar.
+sidebar-about-description: "To be continued..."
+sidebar-avatar: /img/nono.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -69,14 +69,11 @@ disqus_username:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 950a73e79ed45aa4f578b22ac6303ce7
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto
-
-
-
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: auto
 
 
 # Featured Tags
@@ -84,11 +81,9 @@ featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
-
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
 
 
 # Friends
